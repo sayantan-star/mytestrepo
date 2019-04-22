@@ -1,5 +1,0 @@
-dscc /d "myhost:9446" /h "myhost" /u "arjun" /p "sample@123" /j "value1" project "myproj"
-dscc /d "myhost:9446" /h "myhost" /u "arjun" /p "sample@123" /j "value2" project "myproj"
-dscc /d "myhost:9446" /h "myhost" /u "arjun" /p "sample@123" /j "value3" project "myproj"
-dscc /d "myhost:9446" /h "myhost" /u "arjun" /p "sample@123" /j "value4" project "myproj"
-dscc /d "myhost:9446" /h "myhost" /u "arjun" /p "sample@123" /j "value5" project "myproj"
